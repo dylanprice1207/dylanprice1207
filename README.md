@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dylanprice1207
+- 💥 I own **@AllTalks**, a mental health community on discord and also, **@TalkieDiscord** which is a discord bot that I have been developing
+- 👀 I’m interested in coding discord bots, websites, apps and many more!
+- 📫 How to reach me: **Discord**: DylanP#9550, **EMail**: dylanprice1207@gmail.com
